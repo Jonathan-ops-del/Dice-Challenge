@@ -25,4 +25,3 @@ else{
 };
 
 
-<?php include_once("dicee.html"); ?>
