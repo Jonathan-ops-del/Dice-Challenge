@@ -7,4 +7,4 @@ Steps to get started:
 2) Copy the path "dicee.html" into your local browser.
 
 
-NOTE* This project has also been uploaded to Heroku, and you can simply click on the link here - https://my-dicee-game-app-3051992e7985.herokuapp.com/ - to view the application on your Web Browser
+NOTE* This project has also been uploaded to Heroku, and you can simply click on the link here - https://my-dicee-game-app-58dd0c5774a9.herokuapp.com/ - to view the application on your Web Browser
